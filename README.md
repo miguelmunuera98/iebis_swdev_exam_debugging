@@ -1,9 +1,12 @@
 # Solution
 I fixed the four bugs. 
 
-The first one was escaping the "." by putting two backslashes before the dot. 
+The first one was escaping the "." by putting two backslashes before the dot.
+
 The second one was changing the single quotes '' to double quotes "".
-The third one was changing the 2 in the randomInt to a 3.
+
+The third one was changing the 2 in the nextInt to a 3.
+
 The fourth was adding breaks after each case.
 
 
